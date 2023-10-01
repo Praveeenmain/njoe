@@ -1,0 +1,16 @@
+
+login-container {
+  background-color: #313131;
+}
+.login-bg-container {
+  box-shadow: 5px 5px 5px 5px black !important;
+}
+.form {
+  background-color: black;
+}
+.label {
+  color: white;
+}
+.login{
+  color:#ffffff
+}

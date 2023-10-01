@@ -1,0 +1,39 @@
+.video-player {
+  width: 1900px;
+}
+.views-likes-containers {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.iconcolor {
+  color: #64748b;
+}
+.Like-dislike-save-buttons {
+  display: flex;
+  align-items: center;
+}
+.icon-item {
+  margin-right: 15px;
+}
+.icon-logo-container {
+  display: flex;
+  align-items: center;
+}
+.disiconColor {
+  color: #2563eb;
+}
+.profile-logo {
+  height: 75px;
+}
+.name {
+  font-size: 20px;
+  font-family: 'roboto';
+}
+.video-player-container {
+  padding: 30px;
+}
+.views-publish {
+  display: flex;
+  align-items: center;
+}

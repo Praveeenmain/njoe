@@ -1,0 +1,37 @@
+.menu-search-container {
+  display: flex;
+  padding: 20px;
+}
+.video-player {
+  width: 1900px;
+}
+.views-likes-containers {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.loader-container {
+  text-align: center;
+}
+.views-pub {
+  display: flex;
+  align-items: center;
+}
+.Like-dislike-save-buttons {
+  display: flex;
+  align-items: center;
+}
+.icon-item {
+  margin-right: 15px;
+}
+.icon-logo-container {
+  display: flex;
+}
+.loader-container-details {
+  text-align: center;
+  margin-left: 580px;
+}
+.video-dark-card {
+  background-color: #0f0f0f;
+  color: white;
+}

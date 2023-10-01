@@ -1,0 +1,77 @@
+@media (min-width: 768px) {
+  .menu-search-container {
+    display: flex;
+    width: 300px;
+    margin-top: -23px;
+    margin-left: -22px;
+  }
+  .Home {
+    font-size: 30px;
+    color: black;
+  }
+  .darkHome {
+    font-size: 30px;
+    color: white;
+  }
+  .darktheme {
+    background-color: #424242;
+  }
+  .menu-option {
+    font-size: 20px;
+    color: black;
+  }
+  .menu-card-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 45px;
+    margin-right: -58px;
+  }
+  .darkmenuOption {
+    font-size: 20px;
+    color: white;
+  }
+
+  .Home-button {
+    display: flex;
+    align-items: center;
+  }
+  .icons-con-bg {
+    margin-top: 650px;
+  }
+  .Link {
+    text-decoration: none;
+  }
+  .trending {
+    display: flex;
+    align-items: center;
+  }
+  .gaming {
+    display: flex;
+    align-items: center;
+  }
+  .saved {
+    display: flex;
+    align-items: center;
+  }
+  .icons-container {
+    display: flex;
+  }
+  .icon {
+    height: 40px;
+    width: 45px;
+    margin-left: 10px;
+  }
+  .end-msg {
+    font-size: 15px;
+  }
+  .menu-container {
+    padding-right: 55px;
+    background-color: white;
+    box-shadow: 2px 2px 2px black;
+    height: 150vh;
+
+    display: flex;
+    flex-direction: column;
+  }
+}

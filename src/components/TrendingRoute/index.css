@@ -1,0 +1,53 @@
+.Home {
+  font-size: 30px;
+  color: #0f0f0f;
+}
+.menu-option {
+  font-size: 20px;
+  color: #0f0f0f;
+}
+
+.card-trending {
+  background-color: #383838;
+  display: flex;
+  align-items: center;
+  width: 1200px;
+  margin-left: 2px;
+  color: #f1f1f1;
+  margin-top: 15px;
+}
+.dark-card {
+  background-color: #0f0f0f;
+  margin-top: -15px;
+}
+
+.trending-heading-container {
+  background-color: #f1f1f1;
+  display: flex;
+  align-items: center;
+  width: 1500px;
+  margin-left: 2px;
+}
+
+.fire-container {
+  background-color: #cbd5e1;
+  border-radius: 50%;
+  margin-right: 20px;
+  margin-left: 20px;
+  padding: 5px;
+}
+.dark-fire-container {
+  background-color: #0f0f0f;
+  border-radius: 50%;
+  margin-right: 20px;
+  margin-left: 20px;
+  padding: 5px;
+}
+.fire {
+  color: #ff0b37;
+  font-size: 55px;
+}
+.loader-container-trending {
+  text-align: center;
+  margin-left: 600px;
+}

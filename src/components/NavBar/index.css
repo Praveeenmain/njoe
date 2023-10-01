@@ -1,0 +1,146 @@
+@media (min-width: 768px) {
+  .NavBar-lg-screen {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 15px;
+    padding-left: 15px;
+    padding-bottom: 15px;
+  }
+  .nxt-watch-logo-items {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+  .website-logo {
+    height: 40px;
+    width: 155px;
+  }
+
+  .profile-logo {
+    height: 45px;
+
+    margin: 5px;
+  }
+  .trigger-button {
+    background-color: transparent;
+    height: 35px;
+    width: 90px;
+
+    margin-right: 15px;
+  }
+  .logout-button {
+    border: 1px solid #3b82f6;
+    color: #3b82f6;
+    background-color: transparent;
+    margin: 5px;
+    height: 40px;
+    width: 90px;
+    font-size: 20px;
+    font-family: 'roboto';
+  }
+  .moon {
+    font-size: 35px;
+    margin: 5px;
+  }
+  .NavBar-small-screen {
+    display: none;
+  }
+  .bg-dark {
+    background-color:#0f0f0f;
+    color: #ffff;
+  }
+  .sun {
+    font-size: 35px;
+    margin: 5px;
+    color: white;
+  }
+  .button {
+    background-color: transparent;
+    border: 0px;
+  }
+  .logout-button-dark {
+    border: 1px solid #ffff;
+    color: #ffff;
+    background-color: transparent;
+    margin: 5px;
+    height: 40px;
+    width: 90px;
+    font-size: 20px;
+    font-family: 'roboto';
+  }
+  .confirm-light {
+    background-color: #3b82f6;
+    color: #ffff;
+    height: 35px;
+    width: 90px;
+    border: 0px;
+  }
+  .confirm-dark {
+    background-color: #3b82f6;
+    color: white;
+    height: 35px;
+    width: 90px;
+    border: 0px;
+  }
+}
+@media (max-width: 768px) {
+  .bg-dark {
+    background-color: black;
+  }
+  .NavBar-lg-screen {
+    display: none;
+  }
+  .website-logo {
+    height: 50px;
+    width: 90px;
+  }
+  .NavBar-small-screen {
+    display: flex;
+    padding: 15px;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .moon {
+    font-size: 25px;
+    margin-right: 15px;
+  }
+  .menu {
+    font-size: 25px;
+    margin-right: 15px;
+  }
+  .logout {
+    font-size: 25px;
+    margin-right: 15px;
+  }
+  .menu-dark {
+    font-size: 25px;
+    margin-right: 15px;
+    color: white;
+  }
+  .logout-dark {
+    font-size: 25px;
+    margin-right: 15px;
+    color: white;
+  }
+  .button {
+    background-color: transparent;
+    border: 0px;
+  }
+  .sun {
+    font-size: 25px;
+    margin: 5px;
+    color: white;
+  }
+  .nxt-watch-logo-dark-items {
+    align-items: center;
+  }
+  .log-icon {
+    background-color: transparent;
+    color: black;
+    border: 0px;
+  }
+  .nxt-watch-logo-sm-items {
+    align-items: center;
+  }
+}

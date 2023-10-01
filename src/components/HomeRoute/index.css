@@ -1,0 +1,137 @@
+@media (min-width: 768px) {
+  .menu-search-container {
+    display: flex;
+  }
+  .Home {
+    font-size: 30px;
+    color: #181818;
+  }
+  .menu-option {
+    font-size: 20px;
+    color: #0f0f0f;
+  }
+  .dark {
+    background-color: #0f0f0f;
+  }
+  .failure-page-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .failure-dark-page {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #0f0f0f;
+    color: #ffffff;
+  }
+  .failure-image {
+    height: 450px;
+    width: 500px;
+  }
+  .no-results-element {
+    color: #f1f5f9;
+    font-family: 'roboto';
+  }
+  .no-videos-view {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+
+    align-items: center;
+  }
+
+  .no-video-img {
+    height: 350px;
+    width: 600px;
+  }
+  .light {
+    background-color: #ffffff;
+  }
+  .retry-button {
+    background-color: blue;
+    color: white;
+    height: 40px;
+    width: 80px;
+    border: 0px;
+  }
+  .loader-container-home {
+    text-align: center;
+  }
+
+  .search-dark-input {
+    background-color: #0f0f0f;
+    height: 25px;
+    width: 250px;
+    color: #ffffff;
+    padding-left: 20px;
+  }
+  .search-input {
+    height: 25px;
+    width: 250px;
+    color: #000000;
+    padding-left: 20px;
+  }
+  .input-dark-button {
+    background-color: #ffffff;
+    color: black;
+    margin-left: 4px;
+  }
+  .input-light-button {
+    background-color: #ffffff;
+    margin-left: 4px;
+  }
+  .banner-section {
+    background-image: url('https://assets.ccbp.in/frontend/react-js/nxt-watch-banner-bg.png');
+    width: 1200px;
+    background-size: cover;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+  }
+  .loader-container {
+    text-align: center;
+  }
+  .logo {
+    height: 35px;
+  }
+  .banner-button {
+    height: 30px;
+    width: 100px;
+    background-color: transparent;
+  }
+  .search-banner-container {
+    background-color: #f1f5f9;
+  }
+  .Search-container-button {
+    padding: 25px;
+
+    color: #ffffff;
+  }
+  .search-container-dark-button {
+    padding: 25px;
+    background-color: #0f0f0f;
+    color: #ffffff;
+  }
+  .search-dark-input {
+    height: 25px;
+    width: 250px;
+    background-color: black;
+  }
+
+  .videos-container {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .videos-dark-container {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #0f0f0f;
+  }
+}
+
+@media (max-width: 767px) {
+  .menu-search-container {
+    display: none;
+  }
+}

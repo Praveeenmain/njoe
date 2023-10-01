@@ -1,0 +1,21 @@
+.menu-search-container {
+  display: flex;
+  padding: 20px;
+}
+.no-saved-videos {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-left: 400px;
+}
+.no-save-image {
+  height: 300px;
+  width: 350px;
+}
+.dark-card {
+  color: white;
+}
+.save-cards-container {
+  display: flex;
+}

@@ -1,0 +1,32 @@
+.trending-card {
+  display: flex;
+  align-items: center;
+  padding: 15px;
+  margin-left: 45px;
+}
+.thumb-nail {
+  height: 250px;
+  width: 550px;
+  margin: 10px;
+}
+.publish-count {
+  display: flex;
+  align-items: center;
+}
+.title {
+  font-size: 23px;
+  font-family: roboto;
+}
+.dark-element {
+  background-color: #000000;
+  color: aliceblue;
+  font-family: 'roboto';
+}
+.views {
+  font-size: 18px;
+  font-family: 'Roboto';
+}
+.published {
+  font-size: 18px;
+  font-family: 'Roboto';
+}

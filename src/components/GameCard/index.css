@@ -1,0 +1,13 @@
+.game-card {
+  list-style-type: none;
+  margin: 10px;
+}
+
+.thumbnail {
+  height: 300px;
+  width: 350px;
+}
+.para {
+  color: white;
+  font-family: 'roboto';
+}

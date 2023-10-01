@@ -1,0 +1,24 @@
+.not-dark {
+  background-color: black;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 78px;
+}
+.not {
+  background-color: white;
+  color: black;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 78px;
+}
+.img {
+  height: 500px;
+  width: 660px;
+}
+.menu-search-container {
+  display: flex;
+  padding: 20px;
+}
